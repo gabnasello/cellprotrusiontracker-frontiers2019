@@ -9,7 +9,7 @@ dask==0.20.0
 decorator==4.3.0
 et-xmlfile==1.0.1
 imageio==2.4.1
-ipython==7.1.1
+ipython==7.16.3
 ipython-genutils==0.2.0
 jdcal==1.4
 jedi==0.13.1
